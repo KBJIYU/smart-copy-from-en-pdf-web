@@ -2,7 +2,6 @@ from django.shortcuts import render
 from django.http import JsonResponse
 
 import nltk
-from .modules.testmodules import test_module
 
 
 def smart_copy_en(request):
@@ -29,14 +28,3 @@ def sentence_split_by_br(text):
     print(text_output)
     return text_output
 
-
-def test_api(request):
-    msg = {'msg': 'ok'}
-    return JsonResponse(msg)
-
-
-def test_html(request):
-    test_h1 = 'hi hunter'
-    module_return = test_module()
-
-    return render(request, 'testapp/testuse.html', locals())
