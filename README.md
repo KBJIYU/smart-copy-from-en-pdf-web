@@ -29,3 +29,8 @@
     2. `>> (smartcopy) python manage.py runserver`
 5. **Use** with broswer!
     - `http://localhost:8000/en/`
+
+## Author
+
+- github@KBJIYU
+- March, 2019
