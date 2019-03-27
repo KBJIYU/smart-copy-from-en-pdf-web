@@ -1,16 +1,19 @@
 # smart-copy-from-en-pdf
 
-![intro](./intro.png)
+![smartcopy-logo](/smartcopy.png)
 
 ## About This Project 🚀👑 🎈
 
 **Do you ever have trouble with copying English article or thesis graphs without tidy format?** 
 > **NO MORE ADJUSTING AND FORMATTING BY HAND!! 📢 **
 
-- Only Need 3 steps here!
-  1. **paste** dirty-text.
-  2. **make smarter**.
-  3. **tidy-text** ready to use!
+![intro](./intro.png)
+
+### Only Need 3 steps here!
+
+1. **paste** dirty-text.
+2. **make smarter**.
+3. **tidy-text** ready to use!
 
 ## Activation Information 🚩
 
